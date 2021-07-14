@@ -6,7 +6,7 @@
 "banner":"ca-app-pub-1179025313038187/3481912721",
 "interstial":"ca-app-pub-1179025313038187/6564012260",
 "AppOpen":"ca-app-pub-1179025313038187/4272250218",
-"linkbackup":"https://aratpm.github.io/apyvi/",
+"linkbackup":"https://aratpm.github.io/apykr/",
 
 
 
