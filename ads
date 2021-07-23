@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://www.google.com/",
+"linkone":"https://aratpm.github.io/apykrlkrakrnvpn/",
 "linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-2449640894622823~7039584593",
