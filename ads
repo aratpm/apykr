@@ -15,7 +15,7 @@
 "about":"Please update the app to watch new and More Videos",
 "update":"com.allkarloekar.apyarkarassun",
 "updatebck":"com.apyarkarallkarfullkarnovpn.apyarvideos",
-"version":11,
+"version":1,
 
 
 "appIdold":"ca-app-pub-1179025313038187~8268217424",
