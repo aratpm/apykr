@@ -1,4 +1,4 @@
-{"status":true,
+{"status":notrue,
 "linkone":"https://aratpm.github.io/apykrlkrakrnvpn/",
 "linktwo":"https://www.google.com/",
 
@@ -10,9 +10,11 @@
 
 
 
+
 "title":"Update Available!",
 "about":"Please update the app to watch new and More Videos",
-"update":"com.apyarkarallkarfullkarnovpn.apyarvideos",
+"update":"com.allkarloekar.apyarkarassun",
+"updatebck":"com.apyarkarallkarfullkarnovpn.apyarvideos",
 "version":1,
 
 
