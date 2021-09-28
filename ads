@@ -1,10 +1,10 @@
 {"status":true,
-"linktwo":"https://aratpm.github.io/apykrlkrakrnvpn/",
-"linkone":"https://www.google.com/",
+"linkone":"https://aratpm.github.io/apykrlkrakrnvpn/",
+"linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-2449640894622823~7039584593",
-"banner":"NOca-app-pub-2449640894622823/6656441217",
-"interstial":"NOca-app-pub-2449640894622823/7777951194",
+"banner":"ca-app-pub-2449640894622823/6656441217",
+"interstial":"ca-app-pub-2449640894622823/7777951194",
 "AppOpen":"ca-app-pub-2449640894622823/4241390238",
 "linkbackup":"https://aratpm.github.io/apykrlkrakrnvpn/",
 
